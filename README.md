@@ -1,0 +1,1 @@
+# BLN-3731-test-bellini-component
