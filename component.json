@@ -1,0 +1,45 @@
+{
+  "type": "component",
+  "name": "BLN-3731-test",
+  "children": [
+    {
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "children": [],
+      "type": "core-component",
+      "expressions": []
+    },
+    {
+      "name": "subcomp",
+      "nodeName": "subcomp",
+      "classList": [],
+      "children": [],
+      "type": "custom-component",
+      "ownerType": "component",
+      "ownerName": "BLN-3731-test",
+      "expressions": []
+    }
+  ],
+  "variables": [
+    {
+      "name": "petStoreApi",
+      "type": "open-api",
+      "id": "open-api"
+    }
+  ],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "localStylesheets": [
+    {
+      "path": "style.css"
+    }
+  ]
+}

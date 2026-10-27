@@ -1,0 +1,21 @@
+{
+  "type": "custom-component",
+  "name": "subcomp",
+  "children": [
+    {
+      "name": "h2",
+      "classList": [],
+      "children": [
+        {
+          "name": "text",
+          "textContent": "Sub",
+          "evaluate": false
+        }
+      ]
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": []
+}
